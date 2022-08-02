@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Amitava Chakrabarti, a third year undergraduate Computer Science student at [BITS Pilani, K.K. Birla Goa Campus](https://www.bits-pilani.ac.in/goa/). I have a strong interest in Deep Learning, Computer Vision, Object Detection and Generative Modelling, particularly Diffusion Models. I plan to improve my knowledge in the realm of Deep Learning and am palnning to pursue a career in research.
+Hi, my name is Amitava Chakrabarti, I'm a third year undergraduate Computer Science student at [BITS Pilani, K.K. Birla Goa Campus](https://www.bits-pilani.ac.in/goa/). I have a strong interest in Deep Learning, Computer Vision, Object Detection and Generative Modelling, particularly Diffusion Models. I plan to improve my knowledge in the realm of Deep Learning and am palnning to pursue a career in research.
 
 I’ve worked on projects involving Image Super-resoltuion, Bayesian Neural Networks, Object Detection, Image Segmentation, Optical Character Recognition as well as Generative Adverserial Networks. I am very interested in topics like AGI and non-gradient based optimization methods. I plan to explore Reinforcement Learning as well as Meta-Learning in the near future.
 
