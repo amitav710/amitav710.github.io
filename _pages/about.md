@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, my name is Amitava Chakrabarti, a third year undergraduate Computer Science student at [BITS Pilani, K.K. Birla Goa Campus](https://www.bits-pilani.ac.in/goa/). I have a strong interest in Deep Learning, particularly Computer Vision, Object Detection and Generative Modelling. I aim to further my knowledge in Deep Learning concepts and research, and work on projects to implement new ideas.
+
+I’ve worked on projects involving Time Series forecasting, Image Segmentation, Super Resolution, and Bayesian Neural Networks. I have been a research intern at the National Center for Polar and Ocean Research. My work here involved implementing Deep Learning models to forecast Antarctic weather, using time-series data. I’m also a member of the Society for Artificial Intelligence and Deep Learning at BITS Pilani.
 
 A data-driven personal website
 ======
