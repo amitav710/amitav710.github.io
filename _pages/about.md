@@ -12,7 +12,7 @@ Hi, my name is Amitava Chakrabarti, I'm a third year undergraduate Computer Scie
 
 I’ve worked on projects involving Image Super-resoltuion, Bayesian Neural Networks, Object Detection, Image Segmentation, Optical Character Recognition as well as Generative Adverserial Networks. I am very interested in topics like AGI and non-gradient based optimization methods. I plan to explore Reinforcement Learning as well as Meta-Learning in the near future. I am also a member of the Society for Artificial Intelligence and Deep Learning (SAiDL), BITS Goa.
 
-##Updates
+## Updates
 ======
 _August '22_ - Intern at [Wingify](https://wingify.com/), working on human body reshaping using generative modelling.
 
