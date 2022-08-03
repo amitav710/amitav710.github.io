@@ -8,13 +8,4 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I'll be one of the instructors for the **Introduction to Deep Learning** course, which provides introductory knowledge about **Deep Learning, Computer Vision, Natural Language Processing, and Generative Models**. The course is organized by Quark Controls, at BITS Pilani - Goa, during summer 2022. It is an 8 week course.
