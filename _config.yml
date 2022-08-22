@@ -178,6 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -214,6 +217,14 @@ defaults:
       path: ""
       type: teaching
     values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ''
+      type: projects
+  values:
       layout: single
       author_profile: true
       share: true
